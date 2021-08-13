@@ -1,0 +1,12 @@
+C:\TFS\ASP\Reactivities\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\TFS\ASP\Reactivities\Domain\bin\Debug\net5.0\Domain.dll
+C:\TFS\ASP\Reactivities\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\TFS\ASP\Reactivities\Domain\bin\Debug\net5.0\Domain.pdb
+C:\TFS\ASP\Reactivities\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\TFS\ASP\Reactivities\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS\ASP\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\TFS\ASP\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\TFS\ASP\Reactivities\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\TFS\ASP\Reactivities\Domain\obj\Debug\net5.0\Domain.dll
+C:\TFS\ASP\Reactivities\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\TFS\ASP\Reactivities\Domain\obj\Debug\net5.0\Domain.pdb
